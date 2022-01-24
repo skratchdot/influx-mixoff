@@ -30,3 +30,7 @@ Or viewing it on the wayback machine:
 
 - https://www.discogs.com/release/12036771-Various-InFlux-Mixoff-Vol1
 - https://www.discogs.com/release/3679370-Various-InFlux-Mixoff-Vol1
+
+## Other Links
+
+- https://web.archive.org/web/20051119105635/http://www.residualvibe.com/mixoff/
