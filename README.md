@@ -16,11 +16,15 @@ I decided to create a backup of it. The backup was generated using the following
 wget --mirror https://www.angelfire.com/ny/influxmixoff/index.html
 ```
 
-## Backup
+## Backups
 
 You can view the backup by hitting this url:
 
 - https://projects.skratchdot.com/influx-mixoff/
+
+Or viewing it on the wayback machine:
+
+- https://web.archive.org/web/*/http://www.angelfire.com/ny/influxmixoff/index.html
 
 ## Influx Mixoff on Discogs
 
